@@ -1,0 +1,11 @@
+paddle needs its own class
+    *move()
+
+center line needs its own class
+    createline()
+
+scoreboard needs its own class
+    add_score()
+
+puck needs its own class
+    bounce()
